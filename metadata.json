@@ -1,0 +1,6 @@
+{
+  "name": "(주)엠피드 공식 홈페이지",
+  "description": "실전 창업 교육, 경영 전략 수립, 정부지원사업 멘토링 전문 기업 (주)엠피드의 공식 반응형 웹사이트 및 방문자 분석 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
